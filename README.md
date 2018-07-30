@@ -17,5 +17,5 @@ There are four states in my visualization corresponding to four events. Each sta
 5.	Does the narrative visualization effectively utilize triggers?
 
 There are basically two triggers in my visualization. The first one is the button on the tag bar,
-It changes the time for the slide therefore triggers the change of the graph and text. When the users hang their mouse on the bar, the button will become a little whiter, so that they know they can click on the button. The second one are the tooltips on each graph. If the user hang their mouse on any data point in the graph, the x-axis and y-axis value will appear immediately. I have made the point especially big so that user can easily find this function.
+It changes the time for the slide therefore triggers the change of the graph and text. When the users hang their mouse on the bar, the button will become a little whiter, so that they know they can click on the button. The second one are the tooltips on each graph. If the user hang their mouses on any data point in the graph, the x-axis and y-axis value will appear immediately. If they then remove their mouses, the information will disapeear automatically.I have made the point especially big so that user can easily find this function.
 
